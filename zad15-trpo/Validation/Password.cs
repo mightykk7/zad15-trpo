@@ -8,8 +8,8 @@ using System.Windows.Controls;
 
 namespace zad15_trpo.Validation
 {
-    public class Password : ValidationRule
-    {
+    public class Password
+    {/*
         public override ValidationResult Validate(object value, CultureInfo cultureInfo)
         {
 
@@ -31,6 +31,6 @@ namespace zad15_trpo.Validation
             }
 
             return ValidationResult.ValidResult;
-        }
+        }*/
     }
 }

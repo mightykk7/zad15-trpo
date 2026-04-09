@@ -34,7 +34,7 @@ namespace zad15_trpo.Pages
             if ( pin.ToString() == "1234")
                 NavigationService.Navigate(new MainPage(true));
             else
-                MessageBox.Show("Введите правильный пароль", "Предупреждение", MessageBoxButton.OK, MessageBoxImage.Warning);
+                MessageBox.Show("Введите правильный пароль (4 цифры)", "Предупреждение", MessageBoxButton.OK, MessageBoxImage.Warning);
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
