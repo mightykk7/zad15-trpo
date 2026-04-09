@@ -51,16 +51,6 @@ namespace zad15_trpo.Pages
             LoadData();
             MessageBox.Show("Бренд обновлен");
         }
-        private void btnBrandDelete_Click(object sender, RoutedEventArgs e)
-        {
-            if (dgBrands.SelectedItem is not Brand sel) return;
-            if (MessageBox.Show($"Удалить '{sel.Name}'?", "Подтверждение", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
-            {
-                _dbService.Context.Brands.Remove(sel);
-                _dbService.Context.SaveChanges();
-                LoadData(); txtBrandName.Clear();
-            }
-        }
 
         private void dgCategories_SelectionChanged(object sender, SelectionChangedEventArgs e) => txtCategoryName.Text = (dgCategories.SelectedItem as Category)?.Name ?? "";
         private void btnCatAdd_Click(object sender, RoutedEventArgs e)
@@ -79,16 +69,6 @@ namespace zad15_trpo.Pages
             _dbService.Context.SaveChanges();
             LoadData();
             MessageBox.Show("Категория обновлена");
-        }
-        private void btnCatDelete_Click(object sender, RoutedEventArgs e)
-        {
-            if (dgCategories.SelectedItem is not Category sel) return;
-            if (MessageBox.Show($"Удалить '{sel.Name}'?", "Подтверждение", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
-            {
-                _dbService.Context.Categories.Remove(sel);
-                _dbService.Context.SaveChanges();
-                LoadData(); txtCategoryName.Clear();
-            }
         }
 
         private void dgTags_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -112,17 +92,72 @@ namespace zad15_trpo.Pages
             LoadData();
             MessageBox.Show("Тег обновлен");
         }
+        private void btnBrandDelete_Click(object sender, RoutedEventArgs e)
+        {
+            if (dgBrands.SelectedItem is not Brand sel) return;
+
+            bool hasProducts = _dbService.Context.Products.Any(p => p.BrandId == sel.Id);
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Невозможно удалить бренд, так как с ним связаны товары.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            if (MessageBox.Show($"Удалить '{sel.Name}'?", "Подтверждение", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            {
+                _dbService.Context.Brands.Remove(sel);
+                _dbService.Context.SaveChanges();
+                LoadData();
+                txtBrandName.Clear();
+            }
+        }
+
+        private void btnCatDelete_Click(object sender, RoutedEventArgs e)
+        {
+            if (dgCategories.SelectedItem is not Category sel) return;
+
+            bool hasProducts = _dbService.Context.Products.Any(p => p.CategoryId == sel.Id);
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Невозможно удалить категорию, так как в ней есть товары.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            if (MessageBox.Show($"Удалить '{sel.Name}'?", "Подтверждение", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+            {
+                _dbService.Context.Categories.Remove(sel);
+                _dbService.Context.SaveChanges();
+                LoadData();
+                txtCategoryName.Clear();
+            }
+        }
+
         private void btnTagDelete_Click(object sender, RoutedEventArgs e)
         {
             if (dgTags.SelectedItem is not Tag sel) return;
+
+            bool hasProducts = _dbService.Context.Products.Any(p => p.Tags.Any(t => t.Id == sel.Id));
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Невозможно удалить тег, так как он используется в товарах.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
             if (MessageBox.Show($"Удалить '{sel.Name}'?", "Подтверждение", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
             {
                 _dbService.Context.Tags.Remove(sel);
                 _dbService.Context.SaveChanges();
-                LoadData(); txtTagName.Clear();
+                LoadData();
+                txtTagName.Clear();
             }
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e) => NavigationService.GoBack();
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.GoBack();
+        }
     }
 }
