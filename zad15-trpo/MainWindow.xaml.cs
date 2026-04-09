@@ -23,5 +23,13 @@ namespace zad15_trpo
             InitializeComponent();
             MainFrame.Navigate(new Pages.EnterPage());
         }
+
+        private void MainFrame_Navigated(object sender, NavigationEventArgs e)
+        {
+            if(e.Content is Page page)
+            {
+                this.Title = page.Title;
+            }
+        }
     }
 }

@@ -133,12 +133,10 @@
                             <Run Text="{Binding Rating}"/>
                                 </TextBlock>
 
-                                <!-- Категория и бренд -->
+                                <!-- Категория-->
                                 <TextBlock Grid.Row="2">
                             <Run Text="Категория: "/>
                             <Run Text="{Binding Category.Name}"/>
-                            <Run Text=" | Бренд: "/>
-                            <Run Text="{Binding Brand.Name}"/>
                                 </TextBlock>
 
                                 <!-- Описание и остаток -->
