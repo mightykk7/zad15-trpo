@@ -133,7 +133,7 @@ namespace zad15_trpo.Pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/zad15-trpo;component/pages/addproductpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/zad15-trpo;V1.0.0.0;component/pages/addproductpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Pages\AddProductPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

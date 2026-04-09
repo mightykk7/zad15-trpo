@@ -91,7 +91,6 @@ namespace zad15_trpo.Pages
             }
         }
 
-        // === ТЕГИ ===
         private void dgTags_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             txtTagName.Text = (dgTags.SelectedItem as Tag)?.Name ?? "";

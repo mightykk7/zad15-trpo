@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|c:\\users\\st310-02\\desktop\\zad15-trpo-main\\zad15-trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|c:\\users\\st310-02\\desktop\\zad15-trpo-main\\zad15-trpo\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\attributespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\attributespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\attributespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\attributespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -55,22 +79,6 @@
       "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\attributespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\attributespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FB1A270-8ADE-4BAD-802C-2C3955076180}|zad15-trpo.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,83 +102,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\ProductService.cs",
-              "RelativeToolTip": "Service\\ProductService.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:15:29.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TagService.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\TagService.cs",
-              "RelativeDocumentMoniker": "Service\\TagService.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\TagService.cs",
-              "RelativeToolTip": "Service\\TagService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwDQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:16:03.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Password.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Validation\\Password.cs",
-              "RelativeDocumentMoniker": "Validation\\Password.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Validation\\Password.cs",
-              "RelativeToolTip": "Validation\\Password.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T10:30:17.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:03:54.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-24T09:03:55.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-24T09:16:18.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AttributesPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AttributesPage.xaml",
               "RelativeDocumentMoniker": "Pages\\AttributesPage.xaml",
@@ -190,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AddProductPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AddProductPage.xaml",
               "RelativeDocumentMoniker": "Pages\\AddProductPage.xaml",
@@ -202,33 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:13:28.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\BrandService.cs",
-              "RelativeDocumentMoniker": "Service\\BrandService.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\BrandService.cs",
-              "RelativeToolTip": "Service\\BrandService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:14:28.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\MainPage.xaml",
               "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
@@ -241,122 +139,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "DBService.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\DBService.cs",
-              "RelativeDocumentMoniker": "Service\\DBService.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\DBService.cs",
-              "RelativeToolTip": "Service\\DBService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:13:56.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\CategoryService.cs",
-              "RelativeToolTip": "Service\\CategoryService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAkwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:14:58.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\EnterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml.cs",
-              "RelativeToolTip": "Pages\\EnterPage.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:12:37.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EnterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\EnterPage.xaml",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml",
-              "RelativeToolTip": "Pages\\EnterPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-24T09:11:38.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AttributesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AttributesPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\AttributesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AttributesPage.xaml.cs",
-              "RelativeToolTip": "Pages\\AttributesPage.xaml.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAgwIAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T06:18:57.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AddProductPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AddProductPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\AddProductPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AddProductPage.xaml.cs",
-              "RelativeToolTip": "Pages\\AddProductPage.xaml.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAowH4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T05:57:53.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Tag.cs",
-              "RelativeToolTip": "Models\\Tag.cs",
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:09:08.897Z",
+              "WhenOpened": "2026-04-09T06:46:19.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Ratovsky15Context.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Ratovsky15Context.cs",
-              "RelativeDocumentMoniker": "Models\\Ratovsky15Context.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Ratovsky15Context.cs",
-              "RelativeToolTip": "Models\\Ratovsky15Context.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:06:25.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA6wB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T06:06:48.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -369,16 +164,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Brand.cs",
-              "RelativeToolTip": "Models\\Brand.cs",
+              "DocumentIndex": 7,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddProductPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:57:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttributesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AttributesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AttributesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\AttributesPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AttributesPage.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:18:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EnterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml.cs",
+              "RelativeToolTip": "Pages\\EnterPage.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:12:37.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EnterPage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\EnterPage.xaml",
+              "RelativeToolTip": "Pages\\EnterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T09:11:38.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:13:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T09:16:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T09:03:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:03:54.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Validation\\Password.cs",
+              "RelativeDocumentMoniker": "Validation\\Password.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Validation\\Password.cs",
+              "RelativeToolTip": "Validation\\Password.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:30:17.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\TagService.cs",
+              "RelativeDocumentMoniker": "Service\\TagService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\TagService.cs",
+              "RelativeToolTip": "Service\\TagService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:16:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:15:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\CategoryService.cs",
+              "RelativeToolTip": "Service\\CategoryService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:14:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\DBService.cs",
+              "RelativeDocumentMoniker": "Service\\DBService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\DBService.cs",
+              "RelativeToolTip": "Service\\DBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:13:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\BrandService.cs",
+              "RelativeDocumentMoniker": "Service\\BrandService.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Service\\BrandService.cs",
+              "RelativeToolTip": "Service\\BrandService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:14:28.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T06:46:19.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T09:09:08.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ratovsky15Context.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Ratovsky15Context.cs",
+              "RelativeDocumentMoniker": "Models\\Ratovsky15Context.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Ratovsky15Context.cs",
+              "RelativeToolTip": "Models\\Ratovsky15Context.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:06:25.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Desktop\\zad15-trpo-main\\zad15-trpo\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA6wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:06:48.503Z"
             }
           ]
         },

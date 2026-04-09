@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zad15-trpo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d85815a8de2134746f3a518b4e21a52a3fe0d6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea51640b403eb5404c4a01f934194289d2d252b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("zad15-trpo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zad15-trpo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
