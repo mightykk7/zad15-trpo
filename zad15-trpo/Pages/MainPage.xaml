@@ -15,19 +15,22 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
             <RowDefinition Height="70"/>
             <RowDefinition/>
             <RowDefinition Height="55"/>
         </Grid.RowDefinitions>
-
-        <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+        <StackPanel Grid.ColumnSpan="2" Grid.Row="0">
+            <TextBlock Text="Список электроники" HorizontalAlignment="Center" Margin="0,0,0,10" FontSize="24"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2">
             <Label>Поиск</Label>
             <TextBox Text="{Binding searchQuery, UpdateSourceTrigger=PropertyChanged}" 
                      materialDesign:HintAssist.Hint="Введите текст для поиска" 
                      TextChanged="TextBox_TextChanged"/>
         </StackPanel>
 
-        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,10,0">
+        <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,0,10,0">
             <Label FontSize="16">Сортировка</Label>
             <ComboBox SelectionChanged="ComboBox_SelectionChanged">
                 <ComboBoxItem Content="Наименование" Tag="Name"/>
@@ -48,19 +51,17 @@
 
             <Label FontSize="16" Margin="0,10,0,0">Бренд</Label>
             <ComboBox x:Name="BrandFilterComboBox" SelectionChanged="BrandFilter" DisplayMemberPath="Name">
-                <ComboBoxItem Content="Все бренды" Tag="0"/>
             </ComboBox>
 
             <Label FontSize="16" Margin="0,10,0,0">Категория</Label>
             <ComboBox x:Name="CategoryFilterComboBox" SelectionChanged="CategoryFilter" DisplayMemberPath="Name">
-                <ComboBoxItem Content="Все категории" Tag="0"/>
             </ComboBox>
 
             <Button Content="Сбросить" Click="Button_Click" Margin="0,10,0,0"/>
         </StackPanel>
 
         <!-- Список товаров -->
-        <materialDesign:ColorZone Grid.Row="1" Grid.Column="1" Mode="SecondaryMid">
+        <materialDesign:ColorZone Grid.Row="2" Grid.Column="1" Mode="SecondaryMid">
             <ListView ItemsSource="{Binding service.Products}"
               HorizontalContentAlignment="Stretch"
               Margin="10"
@@ -158,7 +159,7 @@
                                         <DataTemplate>
                                             <StackPanel Orientation="Horizontal">
                                                 <TextBlock Text="#"/>
-                                                <TextBlock Text="{Binding Name}" Foreground="White" FontSize="11"/>
+                                                <TextBlock Text="{Binding Name}" FontSize="11"/>
                                             </StackPanel>
                                         </DataTemplate>
                                     </ItemsControl.ItemTemplate>
@@ -170,7 +171,7 @@
             </ListView>
         </materialDesign:ColorZone>
 
-        <WrapPanel Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <WrapPanel Grid.Row="3" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBlock Text="{Binding service.Products.Count, StringFormat='{}Всего записей: {0}'}"/>
             <TextBlock Text="{Binding Items.Count, ElementName=ProductsList, StringFormat='{} Показано: {0}'}"/>
             <Button x:Name="Add" Content="Добавить товар" Click="Add_Click" Margin="10,0,5,0" Visibility="Hidden"/>

@@ -314,3 +314,4 @@ C:\Users\st310-02\Desktop\zad15-trpo-main\zad15-trpo\obj\Debug\net8.0-windows\Pa
 C:\Users\st310-02\Desktop\zad15-trpo-main\zad15-trpo\obj\Debug\net8.0-windows\Pages\AttributesPage.g.cs
 C:\Users\st310-02\Desktop\zad15-trpo-main\zad15-trpo\obj\Debug\net8.0-windows\Pages\AddProductPage.baml
 C:\Users\st310-02\Desktop\zad15-trpo-main\zad15-trpo\obj\Debug\net8.0-windows\Pages\AttributesPage.baml
+C:\Users\st310-02\Desktop\zad15-trpo-main\zad15-trpo\obj\Debug\net8.0-windows\zad15-trpo.sourcelink.json

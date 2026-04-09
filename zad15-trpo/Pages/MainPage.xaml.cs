@@ -25,9 +25,6 @@ namespace zad15_trpo.Pages
         public int? selectedBrandId { get; set; } = null;
         public int? selectedCategoryId { get; set; } = null;
 
-        public int TotalCount { get; set; }
-        public int FilteredCount { get; set; }
-
         public MainPage(bool isManager)
         {
             InitializeComponent();
@@ -41,15 +38,16 @@ namespace zad15_trpo.Pages
             LoadFilters();
             productsView = CollectionViewSource.GetDefaultView(service.Products);
             productsView.Filter = FilterProducts;
-            UpdateCounts();
         }
 
         private void LoadFilters()
         {
+            BrandFilterComboBox.Items.Add(new { Name = "Все бренды" });
             var brands = _db.Brands.OrderBy(b => b.Name).ToList();
             foreach (var b in brands)
                 BrandFilterComboBox.Items.Add(b);
 
+            CategoryFilterComboBox.Items.Add(new { Name = "Все категории" });
             var categories = _db.Categories.OrderBy(c => c.Name).ToList();
             foreach (var c in categories)
                 CategoryFilterComboBox.Items.Add(c);
@@ -88,30 +86,21 @@ namespace zad15_trpo.Pages
             return true;
         }
 
-        private void UpdateCounts()
-        {
-            TotalCount = _db.Products.Count();
-            FilteredCount = productsView.Cast<Product>().Count();
-        }
-
         private void BrandFilter(object sender, SelectionChangedEventArgs e)
         {
             selectedBrandId = (BrandFilterComboBox.SelectedItem as Brand)?.Id ?? 0;
             productsView.Refresh();
-            UpdateCounts();
         }
 
         private void CategoryFilter(object sender, SelectionChangedEventArgs e)
         {
             selectedCategoryId = (CategoryFilterComboBox.SelectedItem as Category)?.Id ?? 0;
             productsView.Refresh();
-            UpdateCounts();
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
             productsView.Refresh();
-            UpdateCounts();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -124,7 +113,6 @@ namespace zad15_trpo.Pages
             BrandFilterComboBox.SelectedIndex = 0;
             CategoryFilterComboBox.SelectedIndex = 0;
             productsView.Refresh();
-            UpdateCounts();
         }
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -179,7 +167,6 @@ namespace zad15_trpo.Pages
                 _db.SaveChanges();
                 service.Products.Remove(sel);
                 productsView.Refresh();
-                UpdateCounts();
                 MessageBox.Show("Товар удалён", "Готово",
                     MessageBoxButton.OK, MessageBoxImage.Information);
             }

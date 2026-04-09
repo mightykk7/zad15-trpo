@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:zad15_trpo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="575" MinHeight="575" MinWidth="800" Width="800">
+        Title="MainWindow" Height="600" MinHeight="600" MinWidth="800" Width="800">
     <Grid>
         <Frame Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"/>
     </Grid>
